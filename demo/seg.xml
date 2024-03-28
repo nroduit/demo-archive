@@ -3,6 +3,9 @@
 <arcQuery arcId="local" baseUrl="https://nroduit.github.io/demo-archive/demo/" requireOnlySOPInstanceUID="false" >
 <Patient PatientID="92afb4624d113e39451e07fbfb0a0892" IssuerOfPatientID="DCM4CHEE.D23FB755.0DDB4787" PatientName="f4aa242907c17eab660a3547a0ae78c3" PatientBirthDate="19991231" PatientSex="M" >
 <Study StudyInstanceUID="1.3.12.2.1107.5.2.32.35162.30000015050317233592200000046" StudyDescription="8e8950befb4a114c729ff30efd9297f3" StudyDate="19991231" StudyTime="121106.008" StudyID="1" >
+<Series SeriesInstanceUID="1.2.276.0.7230010.3.1.3.296485376.8.1542816659.201008" SeriesDescription="Segmentation" SeriesNumber="300" Modality="SEG" >
+<Instance SOPInstanceUID="1.2.276.0.7230010.3.1.4.296485376.8.1542816659.201009" DirectDownloadFile="1.2.276.0.7230010.3.1.4.296485376.8.1542816659.201009" InstanceNumber="1" />
+</Series>
 <Series SeriesInstanceUID="1.3.12.2.1107.5.2.32.35162.1999123112191238897317963.0.0.0" SeriesDescription="MPRAGE" SeriesNumber="2" Modality="MR" DirectDownloadThumbnail="thumb/thumb_14917342874193073250.jpg" >
 <Instance SOPInstanceUID="1.3.12.2.1107.5.2.32.35162.1999123112191238865917962" DirectDownloadFile="1.3.12.2.1107.5.2.32.35162.1999123112191238865917962" InstanceNumber="1" />
 <Instance SOPInstanceUID="1.3.12.2.1107.5.2.32.35162.1999123112191239309117964" DirectDownloadFile="1.3.12.2.1107.5.2.32.35162.1999123112191239309117964" InstanceNumber="2" />
@@ -132,9 +135,6 @@
 <Instance SOPInstanceUID="1.3.12.2.1107.5.2.32.35162.1999123112191460441818486" DirectDownloadFile="1.3.12.2.1107.5.2.32.35162.1999123112191460441818486" InstanceNumber="126" />
 <Instance SOPInstanceUID="1.3.12.2.1107.5.2.32.35162.1999123112191460796318487" DirectDownloadFile="1.3.12.2.1107.5.2.32.35162.1999123112191460796318487" InstanceNumber="127" />
 <Instance SOPInstanceUID="1.3.12.2.1107.5.2.32.35162.1999123112191462532518488" DirectDownloadFile="1.3.12.2.1107.5.2.32.35162.1999123112191462532518488" InstanceNumber="128" />
-</Series>
-<Series SeriesInstanceUID="1.2.276.0.7230010.3.1.3.296485376.8.1542816659.201008" SeriesDescription="Segmentation" SeriesNumber="300" Modality="SEG" >
-<Instance SOPInstanceUID="1.2.276.0.7230010.3.1.4.296485376.8.1542816659.201009" DirectDownloadFile="1.2.276.0.7230010.3.1.4.296485376.8.1542816659.201009" InstanceNumber="1" />
 </Series>
 </Study>
 </Patient>
