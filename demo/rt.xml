@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest uid="d7e73d95-2ed5-4182-9c01-f32fae08c9a5" xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<arcQuery arcId="local" baseUrl="https://nroduit.github.io/samples/demo/" requireOnlySOPInstanceUID="false" >
+<Patient PatientID="123456" IssuerOfPatientID="DCM4CHEE.34039928.null" PatientName="boost^breast" PatientSex="O" >
+<Study StudyInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.35" StudyDate="19010101" StudyTime="000000" StudyID="1" >
+<Series SeriesInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.43" SeriesNumber="2" Modality="CT" DirectDownloadThumbnail="thumb/thumb_455624112949277355.jpg >
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.44" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.44" InstanceNumber="1" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.49" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.49" InstanceNumber="2" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.54" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.54" InstanceNumber="3" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.59" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.59" InstanceNumber="4" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.64" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.64" InstanceNumber="5" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.69" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.69" InstanceNumber="6" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.74" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.74" InstanceNumber="7" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.79" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.79" InstanceNumber="8" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.84" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.84" InstanceNumber="9" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.89" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.89" InstanceNumber="10" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.94" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.94" InstanceNumber="11" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.99" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.99" InstanceNumber="12" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.104" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.104" InstanceNumber="13" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.109" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.109" InstanceNumber="14" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.114" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.114" InstanceNumber="15" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.119" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.119" InstanceNumber="16" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.124" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.124" InstanceNumber="17" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.129" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.129" InstanceNumber="18" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.134" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.134" InstanceNumber="19" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.139" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.139" InstanceNumber="20" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.144" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.144" InstanceNumber="21" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.149" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.149" InstanceNumber="22" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.154" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.154" InstanceNumber="23" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.159" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.159" InstanceNumber="24" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.164" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.164" InstanceNumber="25" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.169" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.169" InstanceNumber="26" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.174" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.174" InstanceNumber="27" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.179" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.179" InstanceNumber="28" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.184" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.184" InstanceNumber="29" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.189" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.189" InstanceNumber="30" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.194" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.194" InstanceNumber="31" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.199" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.199" InstanceNumber="32" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.204" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.204" InstanceNumber="33" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.209" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.209" InstanceNumber="34" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.214" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.214" InstanceNumber="35" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.219" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.219" InstanceNumber="36" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.224" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.224" InstanceNumber="37" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.229" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.229" InstanceNumber="38" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.234" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.234" InstanceNumber="39" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.239" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.239" InstanceNumber="40" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.244" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.244" InstanceNumber="41" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.249" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.249" InstanceNumber="42" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.254" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.254" InstanceNumber="43" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.259" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.259" InstanceNumber="44" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.264" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.264" InstanceNumber="45" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.269" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.269" InstanceNumber="46" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.274" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.274" InstanceNumber="47" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.279" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.279" InstanceNumber="48" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.284" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.284" InstanceNumber="49" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.289" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.289" InstanceNumber="50" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.294" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.294" InstanceNumber="51" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.299" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.299" InstanceNumber="52" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.304" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.304" InstanceNumber="53" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.309" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.309" InstanceNumber="54" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.314" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.314" InstanceNumber="55" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.319" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.319" InstanceNumber="56" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.324" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.324" InstanceNumber="57" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.329" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.329" InstanceNumber="58" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.334" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.334" InstanceNumber="59" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.339" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.339" InstanceNumber="60" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.344" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.344" InstanceNumber="61" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.349" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.349" InstanceNumber="62" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.354" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.354" InstanceNumber="63" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.359" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.359" InstanceNumber="64" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.364" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.364" InstanceNumber="65" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.369" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.369" InstanceNumber="66" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.374" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.374" InstanceNumber="67" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.379" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.379" InstanceNumber="68" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.384" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.384" InstanceNumber="69" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.389" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.389" InstanceNumber="70" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.394" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.394" InstanceNumber="71" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.399" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.399" InstanceNumber="72" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.404" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.404" InstanceNumber="73" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.409" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.409" InstanceNumber="74" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.414" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.414" InstanceNumber="75" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.419" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.419" InstanceNumber="76" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.424" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.424" InstanceNumber="77" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.429" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.429" InstanceNumber="78" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.434" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.434" InstanceNumber="79" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.439" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.439" InstanceNumber="80" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.444" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.444" InstanceNumber="81" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.449" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.449" InstanceNumber="82" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.454" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.454" InstanceNumber="83" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.459" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.459" InstanceNumber="84" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.464" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.464" InstanceNumber="85" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.469" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.469" InstanceNumber="86" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.474" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.474" InstanceNumber="87" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.479" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.479" InstanceNumber="88" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.484" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.484" InstanceNumber="89" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.489" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.489" InstanceNumber="90" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.494" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.494" InstanceNumber="91" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.499" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.499" InstanceNumber="92" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.504" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.504" InstanceNumber="93" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.509" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.509" InstanceNumber="94" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.514" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.514" InstanceNumber="95" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.519" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.519" InstanceNumber="96" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.524" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.524" InstanceNumber="97" />
+<Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.529" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.529" InstanceNumber="98" />
+</Series>
+<Series SeriesInstanceUID="1.2.246.352.71.2.320687012.27257.20090508140213" SeriesDescription="RT Structure Set" SeriesNumber="3" Modality="RTSTRUCT" >
+<Instance SOPInstanceUID="1.2.246.352.71.4.320687012.3190.20090511122144" DirectDownloadFile="1.2.246.352.71.4.320687012.3190.20090511122144" InstanceNumber="1" />
+</Series>
+<Series SeriesInstanceUID="1.2.246.352.71.2.320687012.27353.20090508165851" SeriesDescription="RT Plan" SeriesNumber="4" Modality="RTPLAN" >
+<Instance SOPInstanceUID="1.2.246.352.71.5.320687012.24189.20090603083342" DirectDownloadFile="1.2.246.352.71.5.320687012.24189.20090603083342" />
+</Series>
+<Series SeriesInstanceUID="1.2.246.352.71.2.320687012.28240.20090603082420" SeriesDescription="RT Dose" SeriesNumber="14" Modality="RTDOSE" >
+<Instance SOPInstanceUID="1.2.246.352.71.7.320687012.47206.20090603085223" DirectDownloadFile="1.2.246.352.71.7.320687012.47206.20090603085223" />
+</Series>
+</Study>
+</Patient>
+</arcQuery>
+</manifest>

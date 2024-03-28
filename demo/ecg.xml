@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest uid="6833be94-2541-4262-a7ad-3ae0c52462ae" xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<arcQuery arcId="local" baseUrl="https://nroduit.github.io/samples/demo/" requireOnlySOPInstanceUID="false" >
+<Patient PatientID="TEST DEMO 000000" IssuerOfPatientID="DCM4CHEE.0AAB205E.08AE3934" PatientName="TEST-DEMO^TEST-DEMO" PatientBirthDate="19680428" PatientSex="M" >
+<Study StudyInstanceUID="1.2.840.113619.2.235.148523171518287178611236780" StudyDate="20091006" StudyTime="101444" >
+<Series SeriesInstanceUID="1.2.840.113619.2.235.336980074838253176681228780" SeriesNumber="1" Modality="ECG" >
+<Instance SOPInstanceUID="1.2.840.113619.2.235.51177924748837204651217640" DirectDownloadFile="waveform.dcm" InstanceNumber="2" />
+</Series>
+</Study>
+</Patient>
+</arcQuery>
+</manifest>
