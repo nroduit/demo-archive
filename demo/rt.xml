@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<manifest uid="d7e73d95-2ed5-4182-9c01-f32fae08c9a5" xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<arcQuery arcId="local" baseUrl="https://nroduit.github.io/samples/demo/" requireOnlySOPInstanceUID="false" >
+<?xml version="1.0" encoding="UTF-8" ?> <manifest uid="d7e73d95-2ed5-4182-9c01-f32fae08c9a5" xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<arcQuery arcId="local" baseUrl="https://nroduit.github.io/demo-archive/demo/" requireOnlySOPInstanceUID="false" >
 <Patient PatientID="123456" IssuerOfPatientID="DCM4CHEE.34039928.null" PatientName="boost^breast" PatientSex="O" >
 <Study StudyInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.35" StudyDate="19010101" StudyTime="000000" StudyID="1" >
-<Series SeriesInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.43" SeriesNumber="2" Modality="CT" DirectDownloadThumbnail="thumb/thumb_455624112949277355.jpg >
+<Series SeriesInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.43" SeriesNumber="2" Modality="CT" DirectDownloadThumbnail="thumb/thumb_455624112949277355.jpg" >
 <Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.44" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.44" InstanceNumber="1" />
 <Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.49" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.49" InstanceNumber="2" />
 <Instance SOPInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.54" DirectDownloadFile="2.16.840.1.113662.2.12.0.3057.1241703565.54" InstanceNumber="3" />
