@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest uid="ff03d1f2-d051-4fa7-8c10-8dd9ee478ab3" xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <arcQuery arcId="local" baseUrl="https://nroduit.github.io/demo-archive/demo/" requireOnlySOPInstanceUID="false" >
-<Patient PatientID="92afb4624d113e39451e07fbfb0a0892" IssuerOfPatientID="DCM4CHEE.D23FB755.0DDB4787" PatientName="f4aa242907c17eab660a3547a0ae78c3" PatientBirthDate="19991231" PatientSex="M" >
+<Patient PatientID="92afb4624d113e39451e07fbfb0a0892" PatientName="f4aa242907c17eab660a3547a0ae78c3" PatientBirthDate="19991231" PatientSex="M" >
 <Study StudyInstanceUID="1.3.12.2.1107.5.2.32.35162.30000015050317233592200000046" StudyDescription="8e8950befb4a114c729ff30efd9297f3" StudyDate="19991231" StudyTime="121106.008" StudyID="1" >
 <Series SeriesInstanceUID="1.2.276.0.7230010.3.1.3.296485376.8.1542816659.201008" SeriesDescription="Segmentation" SeriesNumber="300" Modality="SEG" >
 <Instance SOPInstanceUID="1.2.276.0.7230010.3.1.4.296485376.8.1542816659.201009" DirectDownloadFile="1.2.276.0.7230010.3.1.4.296485376.8.1542816659.201009" InstanceNumber="1" />
