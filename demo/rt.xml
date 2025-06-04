@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> <manifest uid="d7e73d95-2ed5-4182-9c01-f32fae08c9a5" xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <arcQuery arcId="local" baseUrl="https://nroduit.github.io/demo-archive/demo/" requireOnlySOPInstanceUID="false" >
-<Patient PatientID="123456" IssuerOfPatientID="DCM4CHEE.34039928.null" PatientName="boost^breast" PatientSex="O" >
+<Patient PatientID="123456" PatientName="boost^breast" PatientSex="O" >
 <Study StudyInstanceUID="2.16.840.1.113662.2.12.0.3057.1241703565.35" StudyDate="19010101" StudyTime="000000" StudyID="1" >
 <Series SeriesInstanceUID="1.2.246.352.71.2.320687012.27257.20090508140213" SeriesDescription="RT Structure Set" SeriesNumber="3" Modality="RTSTRUCT" >
 <Instance SOPInstanceUID="1.2.246.352.71.4.320687012.3190.20090511122144" DirectDownloadFile="1.2.246.352.71.4.320687012.3190.20090511122144" InstanceNumber="1" />
