@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # Keep GitHub Actions pinned to SHAs up to date. Dependabot bumps both the
+  # commit hash and the trailing "# vX.Y.Z" version comment in the workflows.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: ci
+    groups:
+      # One combined PR for all action bumps instead of one per action.
+      github-actions:
+        patterns:
+          - "*"
