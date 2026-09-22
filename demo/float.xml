@@ -3,8 +3,8 @@
 	<arcQuery arcId="local" baseUrl="https://nroduit.github.io/demo-archive/demo/">
 		<Patient PatientID="1234-float" PatientName="TEST^Floating Point Pixel Data">
 			<Study StudyDate="20150708" StudyDescription="DICOM floating point pixel data" StudyID="5678" StudyInstanceUID="1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.4.0" StudyTime="082451.007">
-				<Series DirectDownloadThumbnail="thumb/tumb_16175993115665150464.jpg" Modality="MR" SeriesDescription="DICOM floating point pixel data" SeriesInstanceUID="1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.3.0" SeriesNumber="100">
-					<Instance InstanceNumber="1" SOPInstanceUID="1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.2.0" DirectDownloadFile="1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.2.0"/>
+				<Series DirectDownloadThumbnail="float/thumb/tumb_16175993115665150464.jpg" Modality="MR" SeriesDescription="DICOM floating point pixel data" SeriesInstanceUID="1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.3.0" SeriesNumber="100">
+					<Instance InstanceNumber="1" SOPInstanceUID="1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.2.0" DirectDownloadFile="float/1.3.6.1.4.1.5962.99.1.1839181372.1275896472.1436358291004.2.0"/>
 				</Series>
 			</Study>
 		</Patient>

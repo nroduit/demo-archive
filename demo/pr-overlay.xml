@@ -4,11 +4,11 @@
 		<Patient PatientBirthDate="19890507" PatientID="overlay728" PatientName="TEST^Overlay">
 			<Study StudyDate="19991117" StudyDescription="Overlay Test" StudyID="OVLY_Pnn" StudyInstanceUID="1.2.276.0.7230010.3.200.12" StudyTime="083201">
 				<Series Modality="PR" SeriesDescription="pstates for overlay test" SeriesInstanceUID="1.2.276.0.7230010.3.200.12.0" SeriesNumber="00">
-					<Instance InstanceNumber="1" SOPInstanceUID="1.2.276.0.7230010.3.200.12.0.1" DirectDownloadFile="1.2.276.0.7230010.3.200.12.0.1"/>
+					<Instance InstanceNumber="1" SOPInstanceUID="1.2.276.0.7230010.3.200.12.0.1" DirectDownloadFile="pr-overlay/1.2.276.0.7230010.3.200.12.0.1"/>
 				</Series>
-				<Series DirectDownloadThumbnail="thumb/tumb_14297460697753932612.jpg" Modality="OT" SeriesDescription="six overlays type" SeriesInstanceUID="1.2.276.0.7230010.3.200.12.1" SeriesNumber="01">
-					<Instance InstanceNumber="1" SOPInstanceUID="1.2.276.0.7230010.3.200.12.1.1" DirectDownloadFile="1.2.276.0.7230010.3.200.12.1.1"/>
-					<Instance InstanceNumber="2" SOPInstanceUID="1.2.276.0.7230010.3.200.12.1.2" DirectDownloadFile="1.2.276.0.7230010.3.200.12.1.2"/>
+				<Series DirectDownloadThumbnail="pr-overlay/thumb/tumb_14297460697753932612.jpg" Modality="OT" SeriesDescription="six overlays type" SeriesInstanceUID="1.2.276.0.7230010.3.200.12.1" SeriesNumber="01">
+					<Instance InstanceNumber="1" SOPInstanceUID="1.2.276.0.7230010.3.200.12.1.1" DirectDownloadFile="pr-overlay/1.2.276.0.7230010.3.200.12.1.1"/>
+					<Instance InstanceNumber="2" SOPInstanceUID="1.2.276.0.7230010.3.200.12.1.2" DirectDownloadFile="pr-overlay/1.2.276.0.7230010.3.200.12.1.2"/>
 				</Series>
 			</Study>
 		</Patient>
